@@ -1,0 +1,14 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Obsidian cache and workspace
+.obsidian/workspace
+.obsidian/cache
+
+# Ignore all plugin data except configurations
+.obsidian/plugins/*
+!.obsidian/plugins/*/data.json
+
+# Log files
+*.log
