@@ -6,9 +6,5 @@ Thumbs.db
 .obsidian/workspace
 .obsidian/cache
 
-# Ignore all plugin data except configurations
-.obsidian/plugins/*
-!.obsidian/plugins/*/data.json
-
 # Log files
 *.log
